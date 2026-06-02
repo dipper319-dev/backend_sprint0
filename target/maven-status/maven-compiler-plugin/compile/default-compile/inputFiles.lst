@@ -13,6 +13,10 @@ D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\e
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\dto\TransaccionDTO.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\exception\CategoriaException.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\exception\UsuarioNoEncontradoException.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\historial\controller\HistorialController.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\historial\dto\HistorialDTO.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\historial\repository\HistorialRepository.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\historial\service\HistorialService.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\hu009\EditarEliminarGastoHU009.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\hu011\BalanceFinancieroHU011.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\mapper\CategoriaMapper.java
@@ -20,6 +24,10 @@ D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\e
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\model\Categoria.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\model\Transaccion.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\model\Usuario.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\reportes\controller\ReporteController.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\reportes\dto\ReporteDTO.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\reportes\repository\ReporteRepository.java
+D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\reportes\service\ReporteService.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\repository\AlertaPresupuestoRepository.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\repository\CategoriaRepository.java
 D:\Tareas\Analisis y diseño de sist\Sprint3\backend_sprint0\src\main\java\com\ebv14\backend\repository\TransaccionRepository.java
